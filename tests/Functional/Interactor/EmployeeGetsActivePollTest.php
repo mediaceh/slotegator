@@ -100,5 +100,4 @@ class EmployeeGetsActivePollTest extends FunctionalTestCase
             )
         );
     }
-
 }

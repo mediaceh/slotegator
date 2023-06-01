@@ -2,7 +2,7 @@
 
 namespace Meals\Application\Component\Validator\Exception;
 
-class AccessDeniedException extends \RuntimeException
+class PollHasNoDishException extends \RuntimeException
 {
 
 }
